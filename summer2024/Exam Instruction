@@ -13,9 +13,9 @@ Part 1: Quiz : Total of 100 marks ( 1 attempt - 30 mins)
 20 multiple choice questions
 5 points per question
 Randomly selected from all the quizzes taken throughout the course.
- 
+ 
 
-Part 2: Practical in RapidMiner : Total of 220 Marks (1 attempt - 2 hours 30 mins) - DO NOT CLOSE THIS QUIZ BEFORE UPLOADING THE FINAL EXAM REPORT.
+Part 2: Practical in RapidMiner : Total of 300 Marks (1 attempt - 3 hours) - DO NOT CLOSE THIS QUIZ BEFORE UPLOADING THE FINAL EXAM REPORT.
 
 The practical part has 3 questions:
 
@@ -24,26 +24,32 @@ Question 2: You need to work on Association Rule Mining for Task-6 in the RapidM
 Question 3: File Upload question and below task details will be given in this question.
 Tasks in the Practical Exam:
 
-Task 1-4 needs to performed on the dataset  assigned in the Question 1 (Linear Regression or Logistic Regression or Decision Tree).
+Task 1-4 needs to performed on the dataset  assigned in the Question 1 (Linear Regression or Logistic Regression or Decision Tree).
 
 Describing and understanding the data, data preprocessing and data cleaning - 50 marks
 Give a brief note on the dataset - what do you understand about the data.
-Provide the number of attributes and data records present in the dataset. List the variables and their corresponding data types. 
+Provide the number of attributes and data records present in the dataset. List the variables and their corresponding data types. 
 Check for missing values and replace them accordingly as per your understanding.
-Check for any duplicate records, list the duplicate records if any and remove them. 
-Indicate the change in the shape of the dataset after replacing missing values and removing duplicates. 
+Check for any duplicate records, list the duplicate records if any and remove them. 
+Indicate the change in the shape of the dataset after replacing missing values and removing duplicates. 
+
+
 Data quality checking and evaluation - 20 marks
 Check for biases if any, look for outliers in data and comment how to deal with it (should it be kept or be removed from the dataset). Is the dataset good enough to go ahead?
 You can use the operator in RapidMiner or use statistics to comment on this. No need of staying long if consuming time.
+
+
 Correlation Matrix and insights from it about the attributes - 30 marks
 How can you use a correlation matrix to inform feature selection in a machine learning context for the data?
 Mention the highly correlated attributes.
+
+
 Data Visualization (at least 3-4 depending on the dataset with explanation) - 30 mark
 Give titles and labels for each visualization. Sub title of each visualization should be your name and student ID.
 Provide insights about the visualizations you attach.
 Machine Learning Model Building -
 
-Task-5 - Use the dataset and do the ML task assigned in the Question 1 (same dataset used for the above 1-4 tasks) :  70 marks
+Task-5 - Use the dataset and do the ML task assigned in the Question 1 (same dataset used for the above 1-4 tasks) :  70 marks
 
 Explain the machine learning process assigned (Descriptive) - 10 marks
 Mention the dependent and independent variables in the dataset. Also, specify the target variable - 10 marks
@@ -53,7 +59,7 @@ Your understanding of any other model that could have been more efficient while 
 Write the names of the operators used in this task - 10 Marks
 Association Rule Mining Task -
 
-Task-6 use the dataset assigned in the Question 2:  70 marks
+Task-6 use the dataset assigned in the Question 2:  70 marks
 
 Explain what is Association Rule Mining. What do you understand from Frequents Item sets (Descriptive) - 10 marks
 Create the process in the RapidMiner Canvas (attach the full window with timestamp) - 15 marks
@@ -62,6 +68,8 @@ Find some frequent item-sets in the dataset using FP-growth - 10 marks
 Find at-least 3 association rules with graphs screenshots. Write the value of Premises, Conclusion, Support, Confidence, LaPlace, Gain, Lift and Conviction for the rules in a tabular format - 15 marks
 Write your understanding and insights of the rules and some further business opportunities based on the rule generated - 15 marks
 Write the names of all the operators used in your process for this task - 5 marks
+
+
 Task-7 Time Series Analysis - 30 marks
 
 Use the dataset: Time Series Analysis Question.xlsxDownload Time Series Analysis Question.xlsx
@@ -71,9 +79,11 @@ Is there any seasonality in the sales data? If yes, what is the seasonal pattern
 How does the sales performance in the second year compare to the first year?
 Predict the sales for the first four months of 2024?
 
-NOTE: 
 
-You have to use the dataset assigned in question-1 for Task 1-5. Do not repeat the same tasks for the other datasets. 
+
+NOTE: 
+
+You have to use the dataset assigned in question-1 for Task 1-5. Do not repeat the same tasks for the other datasets. 
 Screenshots wherever needed should be full screen with timestamps. [No marks for screenshots without time and date]
 Report document to be uploaded in word or PDF file format.
 Name of the file should be FirstName_LastName_FinalExam.
@@ -81,16 +91,18 @@ Submit the completed report in this question and then immediately upload the sam
 If there is a significant difference between the quiz completion and the file upload in the assignment section. Marks will be deducted.
 Practical Task Submission:
 
-One separate quiz will be created  to assign the two machine learning tasks and datasets randomly to you.
-Once you start this quiz you will have 2 hours 30 mins to submit your work in the same quiz itself.
+One separate quiz will be created  to assign the two machine learning tasks and datasets randomly to you.
+Once you start this quiz you will have 3 hours to submit your work in the same quiz itself.
 After finishing this, you will be uploading your word or pdf report in an Assignment task created separately in order to check for plagiarism.
 
-NOTE: 
 
-You have to use the dataset assigned in question-1 for Task 1-5. Do not repeat the same tasks for the other datasets. 
+
+NOTE: 
+
+You have to use the dataset assigned in question-1 for Task 1-5. Do not repeat the same tasks for the other datasets. 
 Screenshots wherever needed should be full screen with timestamps. [No marks for screenshots without time and date]
 Report document to be uploaded in word or PDF file format.
 Name of the file should be FirstName_LastName_FinalExam.
 Submit the completed report in the 3rd question and then immediately upload the same file in the Assignment - Final Exam Report Submission for plagiarism check. File not uploaded in the assignment will not be graded.
 If there is a significant difference between the quiz completion and the file upload in the assignment section. Marks will be deducted.
-Please contact the TA for any assistance during the exam. Make sure to attempt the practical exam at a reasonable time when support can be provided.
+Please contact the Professor for any assistance during the exam. Make sure to attempt the practical exam at a reasonable time when support can be provided.
